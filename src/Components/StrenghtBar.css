@@ -1,0 +1,19 @@
+
+.strenght {
+    position: relative;
+    margin-top: -0.5rem;
+    height: 0.75rem;
+    width: 40%;
+    border-radius: 0 0 5px 5px;
+    background-color: #212121;
+    box-shadow: 0 2px 8px rgb(0 0 0 / 15%);
+    transition: 0.5s;
+  }
+  
+  #strenght_bar {
+    position: absolute;
+    width: 0;
+    height: 100%;
+    background-color: #d22;
+    border-radius: 0 0 5px 5px;
+  }
